@@ -1,0 +1,7 @@
+{
+  "name": "MOTORA PRO",
+  "description": "Aplicativo profissional de gestão de ganhos e custos para motoristas, com análise inteligente e controle tático de metas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
